@@ -2,5 +2,19 @@ h1 {
     text-align: center;
 }
 
-ol, ul {
+li {
+    color: rgb(104, 103, 103);
+}
+
+p {
+    color: rgb(104, 103, 103);
+}
+
+img {
+    display: flex;
+    margin: 10px auto;
+}
+
+body {
+    padding: 0 50px;
 }
