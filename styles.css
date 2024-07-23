@@ -1,5 +1,16 @@
 h1 {
     text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+
+h2 {
+    background-color: rgb(240, 240, 240);
+    padding: 8px;
+}
+
+ul, ol {
+    background-color: rgb(219, 219, 219);
+    padding: 8px;
 }
 
 li {
@@ -8,6 +19,8 @@ li {
 
 p {
     color: rgb(104, 103, 103);
+    background-color: rgb(219, 219, 219);
+    padding: 8px;
 }
 
 img {
